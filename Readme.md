@@ -4,7 +4,8 @@ A full-stack **Project Management System** designed to help teams collaborate, o
 This application provides a structured workflow similar to tools like **Trello or Asana**, allowing users to create projects, manage tasks, and communicate through comments.
 
 ---
-
+## Rules make sure you have a 
+laptop
 ## 📌 Features
 
 - 🔐 **User Authentication**
